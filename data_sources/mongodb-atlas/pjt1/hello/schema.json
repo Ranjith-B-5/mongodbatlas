@@ -1,0 +1,11 @@
+{
+    "title": "hello",
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "count": {
+            "bsonType": "int"
+        }
+    }
+}
